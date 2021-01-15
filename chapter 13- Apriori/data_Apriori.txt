@@ -1,0 +1,12 @@
+# sử dụng list để lưu danh sách các mục
+dataset = [['Eggs', 'Milk', 'Onion', 'Nutmeg', 'Kidney Beans', 'Yogurt'],
+           ['Dill', 'Onion', 'Nutmeg', 'Eggs', 'Yogurt'],
+           ['Milk', 'Apple', 'Kidney Beans', 'Eggs'],
+           ['Milk', 'Unicorn', 'Corn', 'Kidney Beans', 'Yogurt'],
+           ['Corn', 'Onion', 'Kidney Beans', 'Ice cream', 'Eggs'],
+           ['Orange', 'Corn', 'Eggs', 'Yogurt'],
+           ['Milk', 'Apple', 'Orange', 'Eggs'], 
+           ['Corn', 'Coke', 'Kidney Beans', 'Ice cream'],
+           ['Dill', 'Onion', 'Nutmeg'],
+           ['Coke', 'Apple', 'Ice cream']
+          ]
